@@ -86,7 +86,7 @@
             content: "";
             position: absolute;
             background: url('./image/bg1.jpg') no-repeat center center/cover;
-            height: 642px;
+            height: 100%;
             top: 0px;
             left: 0px;
             width: 100%;

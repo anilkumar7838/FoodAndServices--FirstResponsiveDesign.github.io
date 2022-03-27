@@ -1,1 +1,1 @@
-# FoosAndServices--FirstResponsiveDesign.github.io
+# FoodAndServices--FirstResponsiveDesign.github.io
